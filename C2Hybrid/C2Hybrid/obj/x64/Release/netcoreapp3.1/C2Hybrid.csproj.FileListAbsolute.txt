@@ -1,0 +1,14 @@
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\bin\x64\Release\netcoreapp3.1\C2Hybrid.exe
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\bin\x64\Release\netcoreapp3.1\C2Hybrid.deps.json
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\bin\x64\Release\netcoreapp3.1\C2Hybrid.runtimeconfig.json
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\bin\x64\Release\netcoreapp3.1\C2Hybrid.runtimeconfig.dev.json
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\bin\x64\Release\netcoreapp3.1\C2Hybrid.dll
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\bin\x64\Release\netcoreapp3.1\C2Hybrid.pdb
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.csproj.AssemblyReference.cache
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.AssemblyInfoInputs.cache
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.AssemblyInfo.cs
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.dll
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.pdb
+C:\Users\Dani\Downloads\C2-Resources-main\C2Hybrid\C2Hybrid\obj\x64\Release\netcoreapp3.1\C2Hybrid.genruntimeconfig.cache
